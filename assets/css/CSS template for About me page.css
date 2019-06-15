@@ -22,28 +22,24 @@ body {
    width: 350px;
    height: 90px;
    background-color: #4aaaa5;
-   margin-left: 500px;
+   margin-left: 200px;
 
 }
 
 h1 {
    position: absolute;
    color: white;
-   /* padding-left: 10px; */
-   margin-left: 200px;
-   background-color: #4aaaa5;
+   padding-left: 10px;
 }
 
 .buttons {
    position: relative;
    float: right;
    margin-top: 40px;
-   margin-right: 240px;
+   margin-right: 210px;
 
 }
-nav {
-  margin-right:100px;
-}
+
 
 h2 {
    color: #4aaaa5;
